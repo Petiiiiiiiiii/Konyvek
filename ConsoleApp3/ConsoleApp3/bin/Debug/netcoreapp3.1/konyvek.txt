@@ -1,0 +1,4 @@
+KonyvCim;Sango;100
+KonyvCim2;Sango2;100
+Disznofasz;Tomi;888
+Tyukszar;Bala;233
